@@ -4,8 +4,6 @@ aliases:
   - /faq/
 ---
 
-We are a community of designers and developers who want to improve the usability and  design of open-source software and learn from each other.
-
 ## Software should be designed well
 
 Software that is difficult to use causes inefficiency, limits user expression, is a security risks and is plainly not fun. Thoughtful designers can prevent these problems, whether done by a professional designer or an interested amateur. This is particularly important in open source software which often has been created by programmers for programmers.
@@ -16,7 +14,7 @@ We connect people who are interested in design in open source projects with each
 
 ## Valuing mutual respect and learning from each other
 
-We value knowledge and experience in all it’s forms. For example you might be:
+We value knowledge and experience in all its forms. For example you might be:
 
 * a new designer exploring opportunities, skills and finding community, 
 * a highly technical engineer that has questions and thoughts about usability and users of Open Source Software you use or build 
